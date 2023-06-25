@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chil-t
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on javascript projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me ...
 
 <!---
