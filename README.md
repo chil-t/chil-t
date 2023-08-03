@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chil-t
+- 👋 Hi, I’m Tom @chil-t
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
