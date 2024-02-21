@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tom @chil-t
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in building web apps
+- 🌱 I’m currently learning TS
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
 
 <!---
